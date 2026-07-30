@@ -65,7 +65,7 @@ Durante este projeto foram utilizadas mais de **30 fontes** entre documentaçõe
 
 ---
 
-# 📑 Índice
+# Índice
 
 - Sobre o Projeto
 - Objetivos
@@ -79,3 +79,35 @@ Durante este projeto foram utilizadas mais de **30 fontes** entre documentaçõe
 - Conclusão
 
 ---
+
+# 🎞️ Slides Gerados pelo NotebookLM
+
+Os slides abaixo foram gerados automaticamente pelo NotebookLM como material de apoio para para este projeto.
+
+## Slide 1
+
+![Slide 1](assets/01.png)
+
+---
+
+## Slide 2
+
+![Slide 2](assets/02.png)
+
+---
+
+## Slide 3
+
+![Slide 3](assets/03.png)
+
+---
+
+## Slide 4
+
+![Slide 4](assets/04.png)
+
+---
+
+## Slide 5
+
+![Slide 5](assets/05.png)
